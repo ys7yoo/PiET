@@ -10,4 +10,6 @@ In step 9, use opencv-2.4.13.zip instead of opencv-2.4.10.zip. Caution: this ste
 [Accessing video] 
 Apache HTTP Server?
 
+[Control] 
+
 [Time sync]
